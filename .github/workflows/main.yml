@@ -7,4 +7,4 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: visibilityspots/fantastic-adventure@v2
+      uses: visibilityspots/fantastic-adventure@v3
